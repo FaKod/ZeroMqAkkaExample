@@ -18,22 +18,6 @@
 
     <repositories>
         <repository>
-            <id>neo4j</id>
-            <url>http://m2.neo4j.org/content/repositories/releases/</url>
-        </repository>
-        <repository>
-            <id>repo.codahale.com</id>
-            <url>http://repo.codahale.com</url>
-        </repository>
-        <repository>
-            <id>fakod-snapshots</id>
-            <url>https://raw.github.com/FaKod/fakod-mvn-repo/master/snapshots</url>
-        </repository>
-        <repository>
-            <id>fakod-releases</id>
-            <url>https://raw.github.com/FaKod/fakod-mvn-repo/master/releases</url>
-        </repository>
-        <repository>
             <id>Akka</id>
             <url>http://repo.akka.io/releases/</url>
         </repository>

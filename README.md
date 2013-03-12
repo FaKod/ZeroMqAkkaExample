@@ -6,6 +6,10 @@ Use Case
 
 Both Async, Router/Dealer pattern with Kryo serialization
 
+run with
+
+   mvn exec:java -Dexec.mainClass="eu.fakod.zmqservice.TestServiceClient"
+
 Credits:
 
 * [Kryo](https://code.google.com/p/kryo/)
